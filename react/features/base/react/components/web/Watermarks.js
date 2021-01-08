@@ -268,8 +268,8 @@ class Watermarks extends Component<Props, State> {
 
             const style = {
                 backgroundImage,
-                maxWidth: 140,
-                maxHeight: 70,
+                maxWidth: 300,
+                maxHeight: 90,
                 ...additionalStyles
             };
 
